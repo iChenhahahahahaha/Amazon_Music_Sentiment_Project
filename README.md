@@ -145,7 +145,7 @@ Example request body:
 This student demo sends a prediction to the queue when:
 
 - the highest class probability is below 60%; or
-- the Negative probability is at least 35%.
+- the Negative probability is at least 45%.
 
 These are easy-to-understand demo thresholds. They were not optimized for a real customer-support cost function.
 
