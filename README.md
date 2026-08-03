@@ -1,4 +1,5 @@
 # Amazon Musical Instruments Review Sentiment Analysis
+https://amazonmusicsentimentproject-ksfswzqu3szfxqvwpso5yu.streamlit.app/
 
 This is an end-to-end machine-learning project based on real Amazon musical-instrument reviews from [Kaggle](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews/data).
 
