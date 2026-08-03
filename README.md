@@ -142,7 +142,7 @@ Example request body:
 
 ## Human-review rule
 
-This student demo sends a prediction to the queue when:
+This demo sends a prediction to the queue when:
 
 - the highest class probability is below 60%; or
 - the Negative probability is at least 45%.
